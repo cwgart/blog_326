@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/03-ConfidenceIntervals/index.html",
+      "/posts/04-Bayesian/index.html",
+      "/posts/02-Estimation/index.html",
+      "/posts/01-Simulation/index.html",
+      "/posts/05-HypothesisTesting/index.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  }
+]

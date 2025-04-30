@@ -1,0 +1,19 @@
+---
+title: "02 - Estimation"
+---
+
+Mini Project 2: Estimation
+
+Sprinting is just running as fast as you can, right?
+
+When I first started that is exactly what I thought. I always played sports growing up, often times being the most athletic and fastest person. In 11^th^ grade I started running track. I wasn\'t always the fastest, but I went to a small school so there wasn\'t too much competition.
+
+Then I started running in college and everything changed. In high school, the competition followed a normal distribution where there were some slow kids, most of the people were moderately fast, and then there were some really fast kids. And now in DIII college, occasionally there are slow people, but rarely. Then most of the people are fairly fast, then it tails out to the really fast people that could have ran DI. This closely follows a **chi square distribution** where most of the people are towards the left and there is a long tail to the right.
+
+Right now, we are in the final week of our indoor season, with just one meet left before the league championships. My personal goal is to qualify for leagues in the 60-meter dash. My personal best in the event is 7.41 and the qualifying time is 7.35. This sounds like nothing at all, but over 60 meters, it is a decent margin.
+
+So will I run .06 faster than I ever have to qualify?
+
+Every runner has a true **parameter** for how fast they could run in an event. This is an unknown time that you\'ve never run before. In every race a person runs, they get an **estimate** of this parameter. This is a single outcome that has many aspects to it. One way to look at it, is that you, the runner, are the **estimator** that is generating these estimates. In a race, there are so many variables: fitness, nutrition, hydration, mindset, and then your overall execution of the race. This also means that in every race you obtain a **random variable** that might help you predict your true parameter. Your season could be looked at as a **random sample** of all your times throughout the season that would help with a estimation. There are so many times that you could run based on the given day you are running and your execution of the race. This can create a decent amount of **variance** in the races, but the more you run, say in a season, the variance will decrease, given you stay healthy.In theory, the more races you run, the faster you get and you will run your true time, which might be true until you reach a certain age or get injuries. This follows closely to **consistency**, where as the number of races you run approaches infinity (although not physically possible), the probability that our estimator produces a value close to our true parameter is 1.  As the season progresses you should be approaching your true potential. But seasons don\'t always go smoothly, you can often have an off day where you\'re not feeling one hundred percent or you don\'t execute your race like you wanted to. For me, I\'ve had races where I\'ve had horrible block starts that throw off the whole race and I\'ve also had races where I\'ve gotten out of the blocks really well but then I tense up when I\'m upright. This type of thing can introduce **bias** where what you expect to happen is completely off what you know you can run. On the contrary, when you work on something specific, like practicing block starts or focusing on upright running form, you are increasing your **likelihood** of running well.
+
+Based on all of my times throughout the season, you might estimate that I\'m not going to run 7.35 on Friday because of the fact I\'ve been in the 7.4\'s all season. But I am hoping I create an enormous amount of bias and run faster than what my expected time is based on this season.  

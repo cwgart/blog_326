@@ -1,0 +1,8 @@
+---
+title: "Reflection"
+---
+
+All of these mini project, as designed, recap the main topics learned in this class. In the first mini project we had to construct sampling distributions from various distributions which set a base understanding for a lot of what we did throughout the semester. Understanding these distributions made more complex uses of distributions much easier. 
+
+
+I liked how most of these mini projects made you revisit the topics while having to think a little deeper about the topic. We had often had to do what we were learning from scratch, starting with a distribution and then applying some of the concepts, ideas, and practices we learned througout the semester. Being able to write code ourselves and make visuals that allowed us to further understand the topics was extrememly helpful in understanding the topic while making the tests seem more simple becasue we had to get so familiar with the topic while comleting the mini projects. 
