@@ -1,0 +1,13 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/about.html",
+      "/posts/01-Simulation/01-index.html",
+      "/posts/02-Estimation/02-index.html",
+      "/posts/03-ConfidenceIntervals/03-index.html",
+      "/posts/04-Bayesian/04-index.html",
+      "/posts/05-HypothesisTesting/05-index.html"
+    ]
+  }
+]
